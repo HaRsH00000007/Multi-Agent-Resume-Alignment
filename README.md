@@ -1,7 +1,7 @@
 # Multi-Agent-Resume-Alignment
 Overview
 
-Multi-Agent Resume Alignment is an innovative project that leverages a multi-agent system to tailor resumes and prepare candidates for job applications. By combining specialized agents—each responsible for research, profiling, resume strategy, and interview preparation—this system intelligently aligns a candidate’s resume with job postings and produces supporting documents such as tailored resumes and interview materials.
+Multi-Agent Resume Alignment is an innovative project that leverages a multi-agent system to tailor resumes and prepare candidates for job applications. By combining specialized agents—each responsible for research, profiling, resume strategy, and interview preparation this system intelligently aligns a candidate’s resume with job postings and produces supporting documents such as tailored resumes and interview materials.
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Features
 
