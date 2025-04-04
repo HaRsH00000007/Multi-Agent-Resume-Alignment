@@ -38,28 +38,37 @@ crewai_tools (or the respective module names if available)
 Additional dependencies for web scraping and language models
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Installation
+
 Clone the repository:
 
 bash
+
 Copy
+
 Edit
+
 git clone https://github.com/YourUsername/Multi-Agent-Resume-Alignment.git
+
 cd Multi-Agent-Resume-Alignment
+
 Install dependencies:
 
 bash
+
 Copy
+
 Edit
+
 pip install -r requirements.txt
+
 Launch the Notebook:
 
 Open the Jupyter Notebook provided in the repository to explore and run the multi-agent alignment system.
 
-bash
-Copy
-Edit
 jupyter notebook Multi-Agent-Resume-Alignment.ipynb
+
 Usage
+
 Configure Input Data:
 
 Update the job_application_inputs dictionary with your job posting URL, GitHub URL, and personal write-up.
@@ -75,7 +84,7 @@ The system will generate output files such as tailored_resume.md and interview_m
 Review the Results:
 
 Inspect the generated documents to ensure your resume aligns with the job requirements and that you are well-prepared for potential interviews.
-
+-----------------------------------------------------------------------------------------------------------------------------------------------
 Contributing
 Contributions are welcome! If you have suggestions or improvements:
 
@@ -88,11 +97,11 @@ Commit your changes (git commit -m 'Add some feature').
 Push to the branch (git push origin feature/YourFeature).
 
 Open a Pull Request.
-
+-----------------------------------------------------------------------------------------------------------------------------------------------
 License
 This project is licensed under the MIT License.
-
+-----------------------------------------------------------------------------------------------------------------------------------------------
 Acknowledgements
 Inspired by the need to streamline and modernize the recruitment process using AI and multi-agent systems.
-
+-----------------------------------------------------------------------------------------------------------------------------------------------
 Thanks to the developers and contributors of the underlying libraries and tools that make this project possible.
